@@ -1,0 +1,1 @@
+ALTER TABLE `release_corrections` ADD `due_at` text;

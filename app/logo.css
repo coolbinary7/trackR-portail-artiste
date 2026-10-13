@@ -1,0 +1,20 @@
+.logo {
+  display: block;
+  width: 142px;
+  height: 72px;
+  object-fit: contain;
+  object-position: left center;
+  flex: 0 0 auto;
+}
+
+.site-footer .logo {
+  width: 126px;
+  height: 66px;
+}
+
+@media (max-width: 560px) {
+  .logo {
+    width: 124px;
+    height: 62px;
+  }
+}
